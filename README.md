@@ -1,5 +1,5 @@
 # Rocketseat - JavaScript 🚀
-Cronograma para adicionar e remover tarefas ao fazer uma viagem. <br>
+Cronograma para adicionar e remover tarefas em uma viagem. <br>
 Desenvolvido com HTML, CSS e JavaScript durante o curso da Rocketseat.
 
 ## 📸 Tela
